@@ -1,0 +1,14 @@
+add .gitignore
+# Ignore node_modules
+node_modules/
+# Ignore build outputdist/
+build/dist/
+# Ignore logslogs/logs/
+# Ignore environment variable files.env
+.env
+# Ignore IDE specific files.vscode/
+.idea/
+# Ignore OS generated files.DS_Store
+.DS_Store
+# Ignore coverage reportscoverage/coverage/
+coverage/
